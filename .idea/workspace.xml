@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52d270c7-88bd-40b4-8d2a-008908f6eb70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/react/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/react/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/vananazexam/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/vananazexam/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/e9B7SehvFVwE5SNDvXsp7xQihG0=" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/e9B7SehvFVwE5SNDvXsp7xQihG0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/android/support/v7/appcompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/facebook/react/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/facebook/react/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/vananazexam/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/android/support/v7/appcompat/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/android/support/v7/appcompat/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/facebook/react/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/facebook/react/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$integer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$integer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$mipmap.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$mipmap.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$xml.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47/com/vananazexam/R$xml.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/json5.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/dist/ajv.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/babel-core/node_modules/.bin/json5.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/lib/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/lib/json5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/json5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cliui/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cliui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cliui/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cliui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/find-up/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/find-up/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/find-up/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/find-up/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/locate-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/locate-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/locate-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/locate-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-limit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-limit/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-limit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-limit/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-locate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-locate/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-locate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-locate/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-try/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-try/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-try/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/node_modules/p-try/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invert-kv/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/invert-kv/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invert-kv/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invert-kv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/invert-kv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/invert-kv/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/invert-kv/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build-es5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/collections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/asymmetric_matcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/convert_ansi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/dom_collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/dom_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/immutable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/lib/escape_html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/lib/markup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/react_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/build/plugins/react_test_component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/perf/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-diff/node_modules/pretty-format/perf/world.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/babel-core/node_modules/.bin/json5.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/find-up/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/find-up/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/find-up/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/find-up/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/lib/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/lib/json5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/json5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/locate-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/locate-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/locate-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/locate-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-limit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-limit/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-limit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-limit/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-locate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-locate/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-locate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-locate/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-try/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-try/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-try/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/p-try/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build-es5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/collections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/asymmetric_matcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/convert_ansi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/dom_collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/dom_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/immutable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/lib/escape_html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/lib/markup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/react_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/build/plugins/react_test_component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/perf/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/pretty-format/perf/world.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/read-pkg-up/node_modules/path-exists/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/read-pkg-up/node_modules/path-exists/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/read-pkg-up/node_modules/path-exists/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-junit/node_modules/read-pkg-up/node_modules/path-exists/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build-es5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/collections.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/asymmetric_matcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/convert_ansi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/dom_collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/dom_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/immutable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/lib/escape_html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/lib/markup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/react_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/build/plugins/react_test_component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/perf/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-matcher-utils/node_modules/pretty-format/perf/world.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/dist/index.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/dist/index.min.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/dist/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/lib/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/lib/require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/unicode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lcid/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lcid/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lcid/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lcid/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lcid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lcid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lcid/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lcid/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mem/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mem/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mem/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mem/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/node_modules/string-width/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/node_modules/string-width/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/node_modules/string-width/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/node_modules/string-width/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/cliui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/lib/errname.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/lib/stdio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/execa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/get-stream/buffer-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/get-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/get-stream/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/get-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/get-stream/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/invert-kv/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/invert-kv/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/invert-kv/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/is-fullwidth-code-point/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/is-fullwidth-code-point/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/is-fullwidth-code-point/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/is-fullwidth-code-point/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/lcid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/lcid/lcid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/lcid/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/lcid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/lcid/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/mem/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/mem/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/mem/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/mem/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/os-locale/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/os-locale/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/os-locale/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/os-locale/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/y18n/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/y18n/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/y18n/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/y18n/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/lib/tokenize-arg-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/metro/node_modules/yargs-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/os-locale/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/os-locale/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/os-locale/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/os-locale/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/os-locale/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/os-locale/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/os-locale/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/os-locale/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-try/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-try/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-try/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-try/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-try/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-try/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-try/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-try/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build-es5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build-es5/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build-es5/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/collections.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build/collections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/AsymmetricMatcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/ConvertAnsi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/DOMCollection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/DOMElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/Immutable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/Immutable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/ReactElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/ReactTestComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/lib/escapeHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/lib/markup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build/plugins/lib/markup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/perf/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/pretty-format/perf/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.cache/@babel/register/.babel.7.2.2.development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/node_modules/string-width/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/node_modules/string-width/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/node_modules/string-width/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/node_modules/string-width/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/cliui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/lib/errname.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/lib/stdio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/execa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/get-stream/buffer-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/get-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/get-stream/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/get-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/get-stream/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/invert-kv/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/invert-kv/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/invert-kv/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/is-fullwidth-code-point/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/is-fullwidth-code-point/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/is-fullwidth-code-point/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/is-fullwidth-code-point/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/lcid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/lcid/lcid.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/lcid/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/lcid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/lcid/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/mem/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/mem/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/mem/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/mem/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/os-locale/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/os-locale/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/os-locale/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/os-locale/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/y18n/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/y18n/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/y18n/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/y18n/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/lib/tokenize-arg-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/yargs-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native/scripts/.packager.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/find-up/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/find-up/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/find-up/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/find-up/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/locate-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/locate-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/locate-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/locate-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-limit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-limit/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-limit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-limit/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-locate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-locate/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-locate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-locate/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-try/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-try/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-try/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/read-pkg-up/node_modules/p-try/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/dist/fetch.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/dist/fetch.umd.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/y18n/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/y18n/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/y18n/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/y18n/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/y18n/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/y18n/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/y18n/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yargs-parser/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yargs-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yargs-parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/lib/tokenize-arg-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yargs-parser/lib/tokenize-arg-string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/node_modules/camelcase/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/node_modules/camelcase/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/node_modules/camelcase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/node_modules/camelcase/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yargs-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1854060301">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+          <entry key="js" value="4" />
+          <entry key="json" value="2" />
+          <entry key="properties" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="4" />
+          <entry key="Properties" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="8159" />
+          <entry key="json" value="6" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="6" />
+          <entry key="JavaScript" value="8159" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>emailErr</find>
+      <find>Login</find>
+      <find>App</find>
+      <find>frmError</find>
+      <find>sss</find>
+      <find>CompArray</find>
+      <find>persistedEmail</find>
+      <find>get_persistedData</find>
+      <find>rememberChecked</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/src/components/login.js" />
+        <option value="$PROJECT_DIR$/src/components/Home.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Login.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VananazExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VananazExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VananazExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VananazExam" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VananazExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VananazExam" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\AndroidStudioProjects\MyApplication\VananazExam\src\images" />
+      <recent name="C:\Users\admin\AndroidStudioProjects\MyApplication\VananazExam\android" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d270c7-88bd-40b4-8d2a-008908f6eb70" name="Default Changelist" comment="" />
+      <created>1548899448794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548899448794</updated>
+    </task>
+    <task id="LOCAL-00001" summary="vananaz exam">
+      <created>1549260801104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549260801104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vananaz exam">
+      <created>1549264046094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549264046094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2087447" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4964739" visible="true" weight="0.23854448" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5035261" side_tool="true" weight="0.18598382" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vananaz exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="vananaz exam" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-button/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="14" lean-forward="true" selection-start-line="190" selection-start-column="14" selection-end-line="190" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VananazExam</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
